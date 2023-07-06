@@ -15,5 +15,13 @@ export default {
 </script>
 
 <style scoped>
-
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: linear-gradient(0deg, rgba(32,0,54,1) 0%, rgba(102,0,255,1) 100%);
+    background-attachment: fixed;
+    color: white;
+}
 </style>
