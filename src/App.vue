@@ -1,10 +1,6 @@
 <template>
-<body>
-  <div>
-    <h1>Olá</h1>
-    <ContactUs/>
-  </div>
-</body>
+<h1 class="mb-5">Em que podemos ajudar?</h1>
+<ContactUs/>
 </template>
 
 <script>
