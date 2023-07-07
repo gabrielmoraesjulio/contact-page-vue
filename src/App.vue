@@ -1,5 +1,5 @@
 <template>
-<ContactUsTitle tituloForm="Olá, mundo!"/>
+<ContactUsTitle tituloForm="Em que podemos ajudar?"/>
 <ContactUs/>
 </template>
 

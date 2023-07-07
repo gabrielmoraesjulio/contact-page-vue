@@ -6,6 +6,7 @@
   <ContactUsInput inputLabel="CPF"/>
   <ContactUsInput inputLabel="Nº/Pedido"/>
   <ContactUsSelect/>
+  <button class="btn btn-outline-dark mt-5">ENVIAR</button>
 </div>
 </template>
 
